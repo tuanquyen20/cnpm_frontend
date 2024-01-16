@@ -1,0 +1,10 @@
+PORT: 8080
+
+MYSQL:
+  USERNAME: root
+  PASSWORD: tuanquyen20
+  HOST: my-project3-database
+
+EMAIL:
+  ADDRESS: htquyen0710.chuyen@tuyenquang.edu.vn
+  PASSWORD: awlr ajpn ermx ycoy
